@@ -1,1 +1,2 @@
-# Digital-Consult
+# Digital-Consult   this is the moder website using tailwind css and it focuses mainly on respponsive web design and modern UI which,
+is only achievable through a css frame work just like tailwind or bootstrap etc...
